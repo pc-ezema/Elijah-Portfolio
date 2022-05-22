@@ -12,7 +12,7 @@
                     <!-- Profile-Pic -->
                     <div class=" col-xl-5 col-lg-6 col-md-6 col-12">
                         <div class="home-profile animate__animated animate__fadeInLeft animate__delay-1s">
-                            <img src="assets/images/profile/simple.jpg" alt="home-profile">
+                            <img src="assets/images/profile/cool.jpg" alt="home-profile">
                         </div>
                     </div>
                     <!-- Profile-Pic End-->
@@ -21,12 +21,12 @@
                         <div class="home-content">
                             <P class="common-desctiption animate__animated animate__fadeInDown animate__delay-1s">Get to know me
                             </P>
-                            <h1 class="common-title animate__animated animate__fadeInDown animate__delay-1s">Alex Smith</h1>
+                            <h1 class="common-title animate__animated animate__fadeInDown animate__delay-1s">Elijah Anibi</h1>
                             <div class="animated-bar animate__animated animate__fadeInDown animate__delay-2s"></div>
                             <div class="animated-text animate__animated animate__fadeInDown animate__delay-2s">
-                                <h3>Web Developer</h3>
+                                <h3>Graphics Designer</h3>
                                 <h3>UI - UX Designer</h3>
-                                <h3>Software Engineer</h3>
+                                <h3>Client management</h3>
                             </div>
                             <!-- Social media icons-->
                             <div class="fixed-block animate__animated animate__jackInTheBox animate__delay-2-5s">
@@ -81,7 +81,7 @@
                         <div class="col-lg-4 profile-photo animate__animated animate__fadeInLeft animate__delay-2s ">
                             <div class="row">
                                 <div class="col-12 d-block col-sm-none">
-                                    <img src="assets/images/profile/simple.jpg" class="img-fluid main-img-mobile" alt="my picture">
+                                    <img src="assets/images/profile/cool.jpg" class="img-fluid main-img-mobile" alt="my picture">
                                 </div>
                             </div>
                         </div>
@@ -90,8 +90,8 @@
 
                                 <div class="col-12">
                                     <h5 class="personal-title">who am <span>i ?</span></h5>
-                                    <h3 class="personal-title">I'm Alex Smith, a visual <span>UX/UI Designer</span> and <span>Web
-                                            Developer</span></h3>
+                                    <h3 class="personal-title">I'm Elijah Anibi, a Graphic <span>UX/UI Designer</span> and <span>Client
+                                            management</span></h3>
                                     <p class="info">I am a freelancer based in the United Kingdom and i have been building noteworthy
                                         UX/UI designs and websites for years, which comply with the latest design trends. I help convert
                                         a
@@ -108,11 +108,11 @@
                                         <ul class="about-you ">
                                             <li>
                                                 <span class="title">first name :</span>
-                                                <span class="value">Alex</span>
+                                                <span class="value">Elijah</span>
                                             </li>
                                             <li>
                                                 <span class="title">last name :</span>
-                                                <span class="value">Smith</span>
+                                                <span class="value">Anibi</span>
                                             </li>
                                             <li>
                                                 <span class="title">address :</span>
@@ -120,11 +120,11 @@
                                             </li>
                                             <li>
                                                 <span class="title">From :</span>
-                                                <span class="value">San Francisco, USA</span>
+                                                <span class="value">Lagos, Nigeria</span>
                                             </li>
                                             <li>
-                                                <span class="title">Age :</span>
-                                                <span class="value">24 years</span>
+                                                <!-- <span class="title">Age :</span>
+                                                <span class="value">24 years</span> -->
                                             </li>
                                         </ul>
                                     </div>
@@ -132,19 +132,19 @@
                                         <ul class="about-you ">
                                             <li>
                                                 <span class="title">E-mail :</span>
-                                                <span class="value"><a href="mailto:info@example.com">info@example.com</a></span>
+                                                <span class="value"><a href="mailto:elijahanibi@gmail.com">elijahanibi@gmail.com</a></span>
                                             </li>
                                             <li>
                                                 <span class="title">Phone :</span>
-                                                <span class="value"><a href="tel:(+01)123-456-789">(+01) 123-456-789</a></span>
+                                                <span class="value"><a href="tel:(+234) 903-9459-108">(+234) 903-9459-108</a></span>
                                             </li>
                                             <li>
-                                                <span class="title">skype :</span>
-                                                <span class="value">steve.milner</span>
+                                                <span class="title">linkedin :</span>
+                                                <span class="value">elijah-anibi</span>
                                             </li>
                                             <li>
                                                 <span class="title">Langages :</span>
-                                                <span class="value">English, German</span>
+                                                <span class="value">English, Yoruba, Hausa</span>
                                             </li>
                                             <li>
                                                 <span class="title">Freelance :</span>
@@ -194,19 +194,19 @@
                                 <div class=" col-block education ">
                                     <h3 class="about-subtitle">Education</h3>
                                     <div class="resume-item"><span class="item-arrow"></span>
-                                        <h5 class="item-title">Bachelor of Science in Information Technology</h5><span class="item-details">Cambridge University / 2004 - 2007</span>
+                                        <h5 class="item-title">Nigeria Certificate in Education Economics / Geography</h5><span class="item-details">Federal College of Education / 2014 - 2017</span>
                                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                                             repudiandae.</p>
                                     </div>
                                     <div class="resume-item"><span class="item-arrow"></span>
-                                        <h5 class="item-title">Master of Science in Information Technology</h5><span class="item-details">Cambridge University / 2007 - 2009</span>
+                                        <h5 class="item-title">Bachelor of Science (Education) in Economics</h5><span class="item-details">University of Lagos / In View</span>
                                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                                             repudiandae.</p>
                                     </div>
                                     <div class="resume-item"><span class="item-arrow"></span>
-                                        <h5 class="item-title">Diploma In Web Design</h5><span class="item-details">Cambridge University
+                                        <h5 class="item-title">Diploma In Computer Data Package</h5><span class="item-details">Institute for Info-Tech & Communications, Nigeria
                                             /
-                                            2009 - 2010</span>
+                                            2012</span>
                                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                                             repudiandae.</p>
                                     </div>
@@ -217,20 +217,20 @@
                                 <div class=" col-block education">
                                     <h3 class="about-subtitle">Experience</h3>
                                     <div class="resume-item"><span class="item-arrow"></span>
-                                        <h5 class="item-title">Lead Ui/Ux Designer</h5><span class="item-details">Google / 2016 -
+                                        <h5 class="item-title">Graphics, Ui/Ux Designer</h5><span class="item-details">Paybuymax Tech / 2022 -
                                             Current</span>
                                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                                             repudiandae.</p>
                                     </div>
                                     <div class="resume-item"><span class="item-arrow"></span>
-                                        <h5 class="item-title">Senior Ui/Ux Designer</h5><span class="item-details">Adobe / 2013 -
-                                            2016</span>
+                                        <h5 class="item-title">Ui/Ux Designer</h5><span class="item-details">Charles Technology Africa / 2021 -
+                                            Current</span>
                                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                                             repudiandae.</p>
                                     </div>
                                     <div class="resume-item"><span class="item-arrow"></span>
-                                        <h5 class="item-title">Junior Ui/Ux Designer</h5><span class="item-details">Google / 2011 -
-                                            2013</span>
+                                        <h5 class="item-title">Ui/Ux Designer</h5><span class="item-details">USAF Development & Innovation / 2021 -
+                                            Current</span>
                                         <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
                                             repudiandae.</p>
                                     </div>
@@ -255,7 +255,7 @@
                                 <div class="skill-bars">
                                     <div class="bar">
                                         <div class="info">
-                                            <span>Photoshop</span>
+                                            <span>Design Strategy</span>
                                         </div>
                                         <div class="progress-line Photoshop">
                                             <span></span>
@@ -263,7 +263,7 @@
                                     </div>
                                     <div class="bar">
                                         <div class="info">
-                                            <span>Illustrator</span>
+                                            <span>Design Research</span>
                                         </div>
                                         <div class="progress-line Illustrator">
                                             <span></span>
@@ -271,7 +271,7 @@
                                     </div>
                                     <div class="bar">
                                         <div class="info">
-                                            <span>Figma</span>
+                                            <span>Wireframing</span>
                                         </div>
                                         <div class="progress-line Figma">
                                             <span></span>
@@ -279,7 +279,7 @@
                                     </div>
                                     <div class="bar">
                                         <div class="info">
-                                            <span>Indesign</span>
+                                            <span>Journey Map</span>
                                         </div>
                                         <div class="progress-line Indesign">
                                             <span></span>
@@ -287,7 +287,15 @@
                                     </div>
                                     <div class="bar">
                                         <div class="info">
-                                            <span>Sketch</span>
+                                            <span>Prototyping</span>
+                                        </div>
+                                        <div class="progress-line Sketch">
+                                            <span></span>
+                                        </div>
+                                    </div>
+                                    <div class="bar">
+                                        <div class="info">
+                                            <span>Graphic Design</span>
                                         </div>
                                         <div class="progress-line Sketch">
                                             <span></span>
@@ -296,11 +304,11 @@
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-12 ">
-                                <h3 class="about-subtitle">Coding <span>Skills</span></h3>
+                                <h3 class="about-subtitle">Software <span>Skills</span></h3>
                                 <div class="skill-bars">
                                     <div class="bar">
                                         <div class="info">
-                                            <span>HTML</span>
+                                            <span>Figma</span>
                                         </div>
                                         <div class="progress-line html">
                                             <span></span>
@@ -308,7 +316,7 @@
                                     </div>
                                     <div class="bar">
                                         <div class="info">
-                                            <span>CSS</span>
+                                            <span>Adobe XD</span>
                                         </div>
                                         <div class="progress-line css">
                                             <span></span>
@@ -316,7 +324,7 @@
                                     </div>
                                     <div class="bar">
                                         <div class="info">
-                                            <span>jQuery</span>
+                                            <span>Photoshop</span>
                                         </div>
                                         <div class="progress-line jquery">
                                             <span></span>
@@ -324,7 +332,7 @@
                                     </div>
                                     <div class="bar">
                                         <div class="info">
-                                            <span>Python</span>
+                                            <span>Adobe Illustrator</span>
                                         </div>
                                         <div class="progress-line python">
                                             <span></span>
@@ -332,7 +340,7 @@
                                     </div>
                                     <div class="bar">
                                         <div class="info">
-                                            <span>MySQL</span>
+                                            <span>CRM Skills</span>
                                         </div>
                                         <div class="progress-line mysql">
                                             <span></span>
@@ -513,7 +521,7 @@
                                         <i class="fas fa-quote-left"></i>
                                     </div>
                                     <div class="testimonial-img">
-                                        <img src="assets/images/profile/simple.jpg" alt="">
+                                        <img src="assets/images/profile/cool.jpg" alt="">
                                     </div>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta consequatur,
                                         optio dolores aliquid </p>
@@ -581,19 +589,19 @@
                         <div class="row">
                             <div class="col-lg-3 col-md-6">
                                 <div class="funfacts-box">
-                                    <h3 class="counter" data-to="10" data-time="10000">0</h3>
+                                    <h3 class="counter" data-to="3" data-time="10000">0</h3>
                                     <p class="fun-text">years of <span>experience</span></p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6">
                                 <div class="funfacts-box">
-                                    <h3 class="counter" data-to="499" data-time="100000">0</h3>
+                                    <h3 class="counter" data-to="20" data-time="100000">0</h3>
                                     <p class="fun-text">happy Clients</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6">
                                 <div class="funfacts-box">
-                                    <h3 class="counter" data-to="101" data-time="100000">0</h3>
+                                    <h3 class="counter" data-to="10" data-time="100000">0</h3>
                                     <p class="fun-text">completed projects</p>
                                 </div>
                             </div>
@@ -634,8 +642,8 @@
                             <div class="portfolio-menu animate__animated animate__fadeInUp animate__delay-2s">
                                 <nav class="controls ">
                                     <button type="button" class="control clickbtn" data-filter="all">All</button>
-                                    <button type="button" class="control clickbtn" data-filter=".webdevelopment ">WebDevelopment</button>
-                                    <button type="button" class="control clickbtn" data-filter=".webdesign ">Web Design</button>
+                                    <button type="button" class="control clickbtn" data-filter=".Animations ">Animations</button>
+                                    <button type="button" class="control clickbtn" data-filter=".Interactions ">Interactions</button>
                                     <button type="button" class="control clickbtn" data-filter=".graphic ">Graphic Design</button>
                                     <button type="button" class="control clickbtn" data-filter=".uiuxdesign ">UI-UX Design</button>
                                 </nav>
@@ -784,7 +792,7 @@
                                         <li>
                                             <div class="media d-flex align-items-center"><span class="info-icon"><i class="fas fa-user-alt"></i></span>
                                                 <div class="media-body info-details">
-                                                    <h6 class="info-type">Name</h6><span class="info-value">Alex Smith</span>
+                                                    <h6 class="info-type">Name</h6><span class="info-value">Elijah Anibi</span>
                                                 </div>
                                             </div>
                                         </li>
@@ -799,15 +807,14 @@
                                         <li>
                                             <div class="media d-flex align-items-center"><span class="info-icon"><i class="fas fa-phone-alt"></i></span>
                                                 <div class="media-body info-details">
-                                                    <h6 class="info-type">Call Me</h6><span class="info-value"><a href="tel:+441632967704">+44
-                                                            1632 967704</a></span>
+                                                    <h6 class="info-type">Call Me</h6><span class="info-value"><a href="tel:+2349039459108">+2349039459108</a></span>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="media d-flex align-items-center"><span class="info-icon"><i class="fas fa-envelope"></i></span>
                                                 <div class="media-body info-details">
-                                                    <h6 class="info-type">Email Me</h6><span class="info-value"><a href="mailto:Alex@example.com">Alex@example.com</a></span>
+                                                    <h6 class="info-type">Email Me</h6><span class="info-value"><a href="mailto:elijahanibi@gmail.com">elijahanibi@gmail.com</a></span>
                                                 </div>
                                             </div>
                                         </li>
