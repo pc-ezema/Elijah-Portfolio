@@ -31,16 +31,15 @@
                             <!-- Social media icons-->
                             <div class="fixed-block animate__animated animate__jackInTheBox animate__delay-2-5s">
                                 <ul class="list-unstyled social-icons">
-                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-square "></i></a></li>
-                                    <li><a href="javascript:void(0)"><i class="fab fa-linkedin "></i></a></li>
-                                    <li><a href="javascript:void(0)"><i class="fab fa-github-square "></i></a></li>
-                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram-square"></i></a></li>
+                                    <li><a href="https://www.behance.net/elijahakinola"><i class="fab fa-behance"></i></a></li>
+                                    <!-- <li><a href="javascript:void(0)"><i class="fab fa-facebook-square "></i></a></li> -->
+                                    <li><a href="https://www.linkedin.com/in/elijah-anibi-a2b4b8200"><i class="fab fa-linkedin "></i></a></li>
+                                    <!-- <li><a href="javascript:void(0)"><i class="fab fa-github-square "></i></a></li> -->
+                                    <!-- <li><a href="javascript:void(0)"><i class="fab fa-instagram-square"></i></a></li> -->
                                 </ul>
                             </div>
-                            <p class="lorem-text animate__animated animate__zoomIn animate__delay-2-5s">I am a freelancer based in
-                                the
-                                United Kingdom and i have been building noteworthy
+                            <p class="lorem-text animate__animated animate__zoomIn animate__delay-2-5s">I am a Product Designer based in
+                                Lagos - Nigeria and i have been building noteworthy
                                 UX/UI designs and websites for years, which comply with the latest design trends. I help convert a
                                 vision and an idea into meaningful and useful products. Having a sharp eye for product evolution
                                 helps
@@ -92,7 +91,7 @@
                                     <h5 class="personal-title">who am <span>i ?</span></h5>
                                     <h3 class="personal-title">I'm Elijah Anibi, a Graphic <span>UX/UI Designer</span> and <span>Client
                                             management</span></h3>
-                                    <p class="info">I am a freelancer based in the United Kingdom and i have been building noteworthy
+                                    <p class="info">I am a Product Designer based in Lagos - Nigeria and i have been building noteworthy
                                         UX/UI designs and websites for years, which comply with the latest design trends. I help convert
                                         a
                                         vision and an idea into meaningful and useful products. Having a sharp eye for product evolution
@@ -116,7 +115,7 @@
                                             </li>
                                             <li>
                                                 <span class="title">address :</span>
-                                                <span class="value">98 Some Street, Some Town</span>
+                                                <span class="value">Udi Street Osborne Foreshore Ikoyi, Lagos - Nigeria.</span>
                                             </li>
                                             <li>
                                                 <span class="title">From :</span>
@@ -159,11 +158,11 @@
                                             <!-- Social media icons-->
                                             <div class="col-lg-7 col-sm-6 col-12">
                                                 <ul class="list-unstyled social-icons">
-                                                    <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-square"></i></a></li>
-                                                    <li><a href="javascript:void(0)"><i class="fab fa-linkedin"></i></a></li>
-                                                    <li><a href="javascript:void(0)"><i class="fab fa-github-square"></i></a></li>
-                                                    <li><a href="javascript:void(0)"><i class="fab fa-instagram-square"></i></a></li>
+                                                    <li><a href="https://www.behance.net/elijahakinola"><i class="fab fa-behance"></i></a></li>
+                                                    <!-- <li><a href="javascript:void(0)"><i class="fab fa-facebook-square"></i></a></li> -->
+                                                    <li><a href="https://www.linkedin.com/in/elijah-anibi-a2b4b8200"><i class="fab fa-linkedin"></i></a></li>
+                                                    <!-- <li><a href="javascript:void(0)"><i class="fab fa-github-square"></i></a></li> -->
+                                                    <!-- <li><a href="javascript:void(0)"><i class="fab fa-instagram-square"></i></a></li> -->
                                                 </ul>
                                             </div>
                                         </div>
@@ -195,20 +194,18 @@
                                     <h3 class="about-subtitle">Education</h3>
                                     <div class="resume-item"><span class="item-arrow"></span>
                                         <h5 class="item-title">Nigeria Certificate in Education Economics / Geography</h5><span class="item-details">Federal College of Education / 2014 - 2017</span>
-                                        <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
-                                            repudiandae.</p>
+                                        <p class="item-description">Having shown an excellent performance in all the major subjects. 13 points completed towards an NCE in Economics.</p>
                                     </div>
                                     <div class="resume-item"><span class="item-arrow"></span>
                                         <h5 class="item-title">Bachelor of Science (Education) in Economics</h5><span class="item-details">University of Lagos / In View</span>
-                                        <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
-                                            repudiandae.</p>
+                                        <!-- <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
+                                            repudiandae.</p> -->
                                     </div>
                                     <div class="resume-item"><span class="item-arrow"></span>
                                         <h5 class="item-title">Diploma In Computer Data Package</h5><span class="item-details">Institute for Info-Tech & Communications, Nigeria
                                             /
                                             2012</span>
-                                        <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
-                                            repudiandae.</p>
+                                        <p class="item-description">Having shown an excellent performance as the best student in microsoft suit packages.</p>
                                     </div>
                                 </div>
                             </div>
@@ -219,20 +216,18 @@
                                     <div class="resume-item"><span class="item-arrow"></span>
                                         <h5 class="item-title">Graphics, Ui/Ux Designer</h5><span class="item-details">Paybuymax Tech / 2022 -
                                             Current</span>
-                                        <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
-                                            repudiandae.</p>
+                                        <p class="item-description">Gather and evaluate user requirements in collaboration with product managers and engineers. Also designing graphic user interface elements, like menus, tabs and sitemaps.</p>
                                     </div>
                                     <div class="resume-item"><span class="item-arrow"></span>
                                         <h5 class="item-title">Ui/Ux Designer</h5><span class="item-details">Charles Technology Africa / 2021 -
                                             Current</span>
-                                        <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
-                                            repudiandae.</p>
+                                        <p class="item-description">Plan and implement new designs, Optimize existing user interface designs, test for intuitivity and experience. Create prototypes for new product ideas. Test new ideas before implementing and conduct an ongoing user research.</p>
                                     </div>
                                     <div class="resume-item"><span class="item-arrow"></span>
                                         <h5 class="item-title">Ui/Ux Designer</h5><span class="item-details">USAF Development & Innovation / 2021 -
                                             Current</span>
-                                        <p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio quo
-                                            repudiandae.</p>
+                                        <p class="item-description">Creating user-centered designs by understanding business requirements, and user feedback
+Translating requirements into style guides, design systems, design patterns and attractive user interfaces.</p>
                                     </div>
                                 </div>
                             </div>
@@ -346,6 +341,14 @@
                                             <span></span>
                                         </div>
                                     </div>
+                                    <div class="bar">
+                                        <div class="info">
+                                            <span>Shotcut</span>
+                                        </div>
+                                        <div class="progress-line mysql">
+                                            <span></span>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -360,15 +363,13 @@
                                     <h1 class="common-title">My <span>Services</span></h1>
                                     <div class="animated-bar"></div>
                                 </div>
-                                <p class="service-text">Lorem Ipsum is simply dummy text of the printing and type setting industry.
-                                    Lorem Ipsum has been the industry's<br>standard dummy text ever since the 1500s, when an unknown
-                                    book.
+                                <p class="service-text">We offer comprehensive UI/UX services that include branding, responsive web design, mobile app design, <br>user experience consulting, and promotional designs using the latest tools and technologies.
                                 </p>
                             </div>
                         </div>
                         <div class="row animate__animated animate__zoomIn animate__slower animate__delay-3s">
                             <!-- Single Item -->
-                            <div class="col-lg-3 col-sm-6 services-box animate__animated animate__zoomIn animate__slower animate__delay-3s">
+                            <!-- <div class="col-lg-3 col-sm-6 services-box animate__animated animate__zoomIn animate__slower animate__delay-3s">
                                 <div class="service-item">
                                     <i class="fas fa-laptop-code"></i>
                                     <h4><span class="service-line">web design</span></h4>
@@ -376,7 +377,7 @@
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- End Single Item -->
 
                             <!-- Single Item -->
@@ -385,7 +386,7 @@
                                     <i class="fas fa-palette"></i>
                                     <h4><span class="service-line">design</span></h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    A design is a specification for the construction of an object in the form of a prototype.
                                     </p>
                                 </div>
                             </div>
@@ -397,7 +398,7 @@
                                     <i class="fas fa-object-ungroup"></i>
                                     <h4><span class="service-line">product design</span></h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    A product design is responsible for the design & development of consumer products.
                                     </p>
                                 </div>
                             </div>
@@ -409,7 +410,7 @@
                                     <i class="far fa-object-ungroup"></i>
                                     <h4><span class="service-line">UI/UX design</span></h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    UI designers create the user interface for an app, website, or other interactive media.
                                     </p>
                                 </div>
                             </div>
@@ -421,7 +422,7 @@
                                     <i class="fas fa-radiation"></i>
                                     <h4><span class="service-line">animation</span></h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Animation is a method in which figures are manipulated to appear as moving images.
                                     </p>
                                 </div>
                             </div>
@@ -431,9 +432,9 @@
                             <div class="col-lg-3 col-sm-6 services-box animate__animated animate__zoomIn animate__slower animate__delay-3s">
                                 <div class="service-item">
                                     <i class="fas fa-code"></i>
-                                    <h4><span class="service-line">web devolopment</span></h4>
+                                    <h4><span class="service-line">Interactions</span></h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Interaction design, a subgroup of user experience (UX) design, is how a user interacts with a product, physically or digitally.
                                     </p>
                                 </div>
                             </div>
@@ -445,7 +446,7 @@
                                     <i class="fas fa-arrows-alt"></i>
                                     <h4><span class="service-line">fully responsive</span></h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    The goal of responsive design is to build web pages that detect the visitor's screen size & change the layout accordingly.
                                     </p>
                                 </div>
                             </div>
@@ -457,7 +458,7 @@
                                     <i class="fas fa-dharmachakra"></i>
                                     <h4><span class="service-line">management</span></h4>
                                     <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    Management is the coordination and administration of tasks to achieve a goal.
                                     </p>
                                 </div>
                             </div>
@@ -466,7 +467,7 @@
                     </div>
                     <!-- / service section -->
                     <!-- Testimonials -->
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-12 animate__animated animate__fadeInDown animate__delay-3s">
                             <div class="section-title">
                                 <P class="common-desctiption">what our clients say</P>
@@ -573,7 +574,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--End Testimonials section -->
                     <!-- Fun Fact Section -->
                     <div class="funfacts-section">
@@ -799,8 +800,7 @@
                                         <li>
                                             <div class="media d-flex align-items-center"><span class="info-icon"><i class="fas fa-map-pin"></i></span>
                                                 <div class="media-body info-details">
-                                                    <h6 class="info-type">Location</h6><span class="info-value">4155 Mann Island, Liverpool,
-                                                        United Kingdom.</span>
+                                                    <h6 class="info-type">Location</h6><span class="info-value">Udi Street Osborne Foreshore Ikoyi, Lagos - Nigeria.</span>
                                                 </div>
                                             </div>
                                         </li>
@@ -823,11 +823,11 @@
                                 <!-- Social media icons-->
                                 <div class="fixed-block d-flex animate__animated animate__jackInTheBox animate__delay-3s">
                                     <ul class="list-unstyled social-icons p-3">
-                                        <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="javascript:void(0)"><i class="fab fa-facebook-square"></i></a></li>
-                                        <li><a href="javascript:void(0)"><i class="fab fa-linkedin"></i></a></li>
-                                        <li><a href="javascript:void(0)"><i class="fab fa-github-square"></i></a></li>
-                                        <li><a href="javascript:void(0)"><i class="fab fa-instagram-square"></i></a></li>
+                                        <li><a href="https://www.behance.net/elijahakinola"><i class="fab fa-behance"></i></a></li>
+                                        <!-- <li><a href="javascript:void(0)"><i class="fab fa-facebook-square"></i></a></li> -->
+                                        <li><a href="https://www.linkedin.com/in/elijah-anibi-a2b4b8200"><i class="fab fa-linkedin"></i></a></li>
+                                        <!-- <li><a href="javascript:void(0)"><i class="fab fa-github-square"></i></a></li> -->
+                                        <!-- <li><a href="javascript:void(0)"><i class="fab fa-instagram-square"></i></a></li> -->
                                     </ul>
                                 </div>
                             </div>
