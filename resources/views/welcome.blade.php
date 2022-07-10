@@ -869,7 +869,7 @@ Translating requirements into style guides, design systems, design patterns and 
                     <div class="row">
                         <div class="col-12">
                             <div class="map animate__animated animate__fadeInRight animate__delay-4s">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19845.82732713224!2d-0.3162034543774074!3d51.55487883052924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876116207a6d0bd%3A0xaf7016a2cadb21e4!2sWembley%2C%20UK!5e0!3m2!1sen!2sin!4v1645179715804!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.455090625995!2d3.422714614266428!3d6.463885925648039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf4b6a058998b%3A0x38490c53024514bd!2sUdi%20St%2C%20Ikoyi%20106104%2C%20Lagos!5e0!3m2!1sen!2sng!4v1657465367265!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                     </div>
