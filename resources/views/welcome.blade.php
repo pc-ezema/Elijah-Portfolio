@@ -660,21 +660,21 @@ Translating requirements into style guides, design systems, design patterns and 
                         <div class="container">
                             <ul class="row ps-0">
                                 <!-- Mix Content-Box -->
-                                <li class="mix webdevelopment col-xl-3 col-lg-4 col-md-6">
-                                    <a title="click to zoom-in" href="assets/images/protfolio/item-1.jpg" data-caption="Web Development" data-size="1200x600">
-                                        <img src="assets/images/protfolio/item-1.jpg" alt="Image description" />
+                                <li class="mix Animations col-xl-3 col-lg-4 col-md-6">
+                                    <a title="click to zoom-in" href="assets/images/protfolio/item-4.jpg" data-caption="Animation" data-size="1200x600">
+                                        <img src="assets/images/protfolio/item-4.jpg" alt="Image description" />
                                         <div class="info">
-                                            <h3 class="title">Web Develoment</h3>
+                                            <h3 class="title">Animations</h3>
                                             <span class="post">project</span>
                                         </div>
                                     </a>
                                 </li>
                                 <!-- Mix Content-Box -->
-                                <li class="mix webdesign col-xl-3 col-lg-4 col-md-6">
-                                    <a title="click to zoom-in" href="assets/images/protfolio/item-2.jpg" data-caption="Web Design" data-size="1200x600">
+                                <li class="mix Interactions col-xl-3 col-lg-4 col-md-6">
+                                    <a title="click to zoom-in" href="assets/images/protfolio/item-2.jpg" data-caption="Interaction" data-size="1200x600">
                                         <img src="assets/images/protfolio/item-2.jpg" alt="Image description" />
                                         <div class="info">
-                                            <h3 class="title">Web Design</h3>
+                                            <h3 class="title">Interaction</h3>
                                             <span class="post">project</span>
                                         </div>
                                     </a>
@@ -690,21 +690,29 @@ Translating requirements into style guides, design systems, design patterns and 
                                     </a>
                                 </li>
                                 <!-- Mix Content Box -->
-                                <li class="mix webdevelopment col-xl-3 col-lg-4 col-md-6">
-                                    <a title="click to zoom-in" href="assets/images/protfolio/item-4.jpg" data-caption="Web Development" data-size="1200x600">
-                                        <img src="assets/images/protfolio/item-4.jpg" alt="Image description" />
+                                <li class="mix Animations col-xl-3 col-lg-4 col-md-6">
+                                <a title="click to zoom-in" href="assets/images/protfolio/item-1.mp4" data-caption="Animations" data-size="1200x600">
+                                        <!-- <img src="assets/images/protfolio/item-5.jpg" alt="Image description" /> -->
+                                        <video width="320" height="240" autoplay>
+                                            <source src="assets/images/protfolio/item-1.mp4" type="video/mp4">
+                                            <!-- <source src="movie.ogg" type="video/ogg"> -->
+                                        </video>
                                         <div class="info">
-                                            <h3 class="title">Web Develoment</h3>
+                                            <h3 class="title">Animation</h3>
                                             <span class="post">project</span>
                                         </div>
                                     </a>
                                 </li>
                                 <!-- Mix Content Box -->
-                                <li class="mix webdesign col-xl-3 col-lg-4 col-md-6">
-                                    <a title="click to zoom-in" href="assets/images/protfolio/item-5.jpg" data-caption="Web Design" data-size="1200x600">
-                                        <img src="assets/images/protfolio/item-5.jpg" alt="Image description" />
+                                <li class="mix Interactions col-xl-3 col-lg-4 col-md-6">
+                                    <a title="click to zoom-in" href="assets/images/protfolio/item-5.mp4" data-caption="Interactions" data-size="1200x600">
+                                        <!-- <img src="assets/images/protfolio/item-5.jpg" alt="Image description" /> -->
+                                        <video width="320" height="240" autoplay>
+                                            <source src="assets/images/protfolio/item-5.mp4" type="video/mp4">
+                                            <!-- <source src="movie.ogg" type="video/ogg"> -->
+                                        </video>
                                         <div class="info">
-                                            <h3 class="title">Web Design</h3>
+                                            <h3 class="title">Interaction</h3>
                                             <span class="post">project</span>
                                         </div>
                                     </a>
@@ -735,6 +743,26 @@ Translating requirements into style guides, design systems, design patterns and 
                                         <img src="assets/images/protfolio/item-8.jpg" alt="Image description" />
                                         <div class="info">
                                             <h3 class="title">Graphic Design</h3>
+                                            <span class="post">project</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!-- Mix Content Box -->
+                                <li class="mix uiuxdesign col-xl-3 col-lg-4 col-md-6">
+                                    <a title="click to zoom-in" href="assets/images/protfolio/item-9.jpg" data-caption="UI-UX Design" data-size="1200x600">
+                                        <img src="assets/images/protfolio/item-9.jpg" alt="Image description" />
+                                        <div class="info">
+                                            <h3 class="title">UI-UX Design</h3>
+                                            <span class="post">project</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!-- Mix Content Box -->
+                                <li class="mix uiuxdesign col-xl-3 col-lg-4 col-md-6">
+                                    <a title="click to zoom-in" href="assets/images/protfolio/item-10.jpg" data-caption="UI-UX Design" data-size="1200x600">
+                                        <img src="assets/images/protfolio/item-10.jpg" alt="Image description" />
+                                        <div class="info">
+                                            <h3 class="title">UI-UX Design</h3>
                                             <span class="post">project</span>
                                         </div>
                                     </a>
