@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [App\Http\Controllers\HomePageController::class, 'index']);
+Route::get('/download/cv', [App\Http\Controllers\HomePageController::class, 'download']);

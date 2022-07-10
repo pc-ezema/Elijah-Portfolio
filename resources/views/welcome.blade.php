@@ -106,15 +106,15 @@
                                     <div class="col-lg-6">
                                         <ul class="about-you ">
                                             <li>
-                                                <span class="title">first name :</span>
+                                                <span class="title">First Name :</span>
                                                 <span class="value">Elijah</span>
                                             </li>
                                             <li>
-                                                <span class="title">last name :</span>
+                                                <span class="title">Last Name :</span>
                                                 <span class="value">Anibi</span>
                                             </li>
                                             <li>
-                                                <span class="title">address :</span>
+                                                <span class="title">Address :</span>
                                                 <span class="value">Udi Street Osborne Foreshore Ikoyi, Lagos - Nigeria.</span>
                                             </li>
                                             <li>
@@ -154,7 +154,10 @@
 
                                     <div class="col-lg-12">
                                         <div class="About-btn">
-                                            <button id="b1" class="clickbtn download-cv">Download CV <i class="fa fa-download" aria-hidden="true"></i></button>
+                                            <form method="GET" action="/download/cv">
+                                                @csrf
+                                                <button type="submit" class="clickbtn download-cv">Download CV <i class="fa fa-download" aria-hidden="true"></i></button>
+                                            </form>
                                             <!-- Social media icons-->
                                             <div class="col-lg-7 col-sm-6 col-12">
                                                 <ul class="list-unstyled social-icons">
